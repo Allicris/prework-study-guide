@@ -11,7 +11,7 @@ N/A
 
 ## Usage
 
-TBD
+To use this Study Guide, you can review the notes in each section. If you'd like a suggestion on what topic you should study, you can open the Chrome DevTools by pressing Command+Option+I (MacOS) or Control+Shift+I (Windows). A console panel should open either below or tot the side of thewebpage in the browser. There you will see a list of topics we learned from Prework along with a suggestion on which topic to study first.
 
 ## Credits
 
